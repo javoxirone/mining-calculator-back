@@ -1,0 +1,30 @@
+HDD 2000 Gb Toshiba,7.3,0.2
+HDD 2000 Gb Toshiba,7.1,0.2
+HDD 2000 Gb Western Digital,7.7,0.2
+HDD 3000 Gb Western Digital,7.3,0.2
+HDD 4000 Gb Seagate Barracuda,7.8,0.2 
+HDD 1000 Gb Western Digital,7.1,0.2 
+HDD 4000 Gb Seagate SkyHawk,7.6,0.2
+HDD 4000 Gb Seagate IronWolf NAS,7.1,0.2 
+HDD 4000 Gb Western Digital,7.3,0.2 
+HDD 4000 Gb Western Digital,7.7,0.2
+HDD 6000 Gb Toshiba Performance X300,14.6,0.2
+HDD 6000 Gb Western Digital,22.6,0.3 
+HDD 6000 Gb Seagate Exos 7E8,15.3,0.3 
+HDD 6000 Gb Toshiba Surveillance S300,15.1,0.3 
+HDD 8000 Gb Toshiba Performance X300,15,0.3 
+HDD 5000 Gb Toshiba,15.7,0.3 
+HDD 8000 Gb Seagate SkyHawk AI,14.9,0.3 
+HDD 5000 Gb Seagate Enterprise Capacity,15.2,0.3 
+HDD 8000 Gb Seagate IronWolf NAS,15.7,0.3 
+HDD 8000 Gb Seagate Video,15.9,0.3 
+HDD 8000 Gb Toshiba Enterprise Capacity MG06A,8,0.2
+HDD 10000 Gb Toshiba Surveillance S300 Pro,7.8,0.2
+HDD 12000 Gb Toshiba Performance X300,7.7,0.2
+HDD 10000 Gb Toshiba Enterprise Capacity MG06A,7.4,0.2
+HDD 10000 Gb Seagate SkyHawk,7.9,0.2 
+HDD 16000 Gb Toshiba Performance X300,7.9,0.3 
+HDD 8000 Gb Western Digital,8.1,0.3 
+HDD 14000 Gb Seagate IronWolf Pro NAS,9.3,0.3 
+HDD 6000 Gb Seagate Enterprise Capacity,9.1,0.3 
+HDD 18000 Gb Western Digital,8.7,0.3
